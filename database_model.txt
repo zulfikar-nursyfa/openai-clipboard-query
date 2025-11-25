@@ -1,0 +1,96 @@
+Table: inventories
+----------------
+product_id (PK, FK → products.product_id)
+warehouse_id (PK, FK → warehouses.warehouse_id)
+quantity
+
+
+Table: warehouses
+----------------
+warehouse_id (PK)
+warehouse_name
+location_id (FK → locations.location_id)
+
+
+Table: locations
+----------------
+location_id (PK)
+address
+postal_code
+city
+state
+country_id (FK → countries.country_id)
+
+
+
+Table: countries
+----------------
+country_id (PK)
+country_name
+region_id (FK → regions.region_id)
+
+
+Table: regions
+----------------
+region_id (PK)
+region_name
+
+
+Table: products
+----------------
+product_id (PK)
+product_name
+description
+standard_cost
+list_price
+category_id (FK → product_categories.category_id)
+
+Table: product_categories
+----------------
+category_id (PK)
+category_name
+
+Table: employees
+----------------
+employee_id (PK)
+first_name
+last_name
+email
+phone
+hire_date
+manager_id
+job_title
+
+Table: orders
+----------------
+order_id (PK)
+customer_id (FK → customers.customer_id)
+status
+salesman_id (FK → employees.employee_id)
+order_date
+
+Table: order_items
+----------------
+order_id (PK, FK → orders.order_id)
+item_id (PK)
+product_id (FK → products.product_id)
+quantity
+unit_price
+
+Table: contacts
+----------------
+contact_id (PK)
+first_name
+last_name
+email
+phone
+customer_id (FK → customers.customer_id)
+
+Table: customers
+----------------
+customer_id (PK)
+name
+address
+website
+credit_limit
+

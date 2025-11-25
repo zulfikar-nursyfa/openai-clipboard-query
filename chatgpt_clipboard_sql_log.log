@@ -1,0 +1,43 @@
+2025-11-13 04:34:07,068 - 🚀 Clipboard watcher started.
+2025-11-13 04:34:07,088 - 📋 New clipboard text detected (1388 chars).
+2025-11-13 04:34:09,812 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 04:34:09,840 - ✅ SQL copied to clipboard successfully.
+2025-11-13 04:34:39,492 - 📋 New clipboard text detected (109 chars).
+2025-11-13 04:34:41,838 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 04:34:41,864 - ✅ SQL copied to clipboard successfully.
+2025-11-13 04:58:08,999 - 🚀 Clipboard watcher started.
+2025-11-13 04:58:09,025 - 📋 New clipboard text detected (13 chars).
+2025-11-13 04:58:11,974 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 04:58:12,011 - ✅ SQL copied to clipboard successfully.
+2025-11-13 04:58:16,132 - 📋 New clipboard text detected (109 chars).
+2025-11-13 04:58:20,428 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 04:58:20,455 - ✅ SQL copied to clipboard successfully.
+2025-11-13 05:00:35,029 - 🚀 Clipboard watcher started.
+2025-11-13 05:00:41,215 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:00:45,630 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 05:00:46,007 - ✅ SQL copied to clipboard successfully.
+2025-11-13 05:17:24,508 - 🚀 Clipboard watcher started.
+2025-11-13 05:17:24,538 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:17:34,117 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 05:17:34,145 - ✅ SQL copied to clipboard successfully.
+2025-11-13 05:18:05,860 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:18:19,727 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-13 05:18:19,746 - ✅ SQL copied to clipboard successfully.
+2025-11-13 05:21:21,148 - 🚀 Clipboard watcher started.
+2025-11-13 05:21:21,171 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:21:23,289 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-11-13 05:21:23,290 - ❌ Error: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2025-11-13 05:21:26,322 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:21:26,993 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-11-13 05:21:26,994 - ❌ Error: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2025-11-13 05:21:30,017 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:21:30,383 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-11-13 05:21:30,384 - ❌ Error: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2025-11-13 05:21:41,506 - 🚀 Clipboard watcher started.
+2025-11-13 05:21:41,528 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:21:42,487 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-11-13 05:21:42,488 - ❌ Error: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.1 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2025-11-13 05:23:28,801 - 🚀 Clipboard watcher started.
+2025-11-13 05:23:28,827 - 📋 New clipboard text detected (109 chars).
+2025-11-13 05:23:29,685 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-11-13 05:23:29,686 - ❌ Error: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
