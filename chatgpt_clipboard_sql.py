@@ -42,7 +42,7 @@ logging.basicConfig(
 )
 
 # ========== CHATGPT CLIENT ==========
-api_key = "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";
+api_key = ""; # Put your openai key
 
 if not api_key:
     raise ValueError("❌ OPENAI_API_KEY not set")
